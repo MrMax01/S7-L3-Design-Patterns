@@ -15,6 +15,6 @@ public class UserData implements DataSource{
 
     @Override
     public int getEta() {
-        return this.getEta();
+        return this.eta;
     }
 }

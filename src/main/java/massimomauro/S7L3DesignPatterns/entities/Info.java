@@ -7,7 +7,7 @@ import java.util.Date;
 
 @Getter
 @Setter
-public class info {
+public class Info {
     private String nome;
     private String cognome;
     private Date dataDiNascita;
