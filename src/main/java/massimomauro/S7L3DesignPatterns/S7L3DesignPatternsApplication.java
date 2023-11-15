@@ -1,7 +1,7 @@
 package massimomauro.S7L3DesignPatterns;
 
-import massimomauro.S7L3DesignPatterns.entities.Info;
-import massimomauro.S7L3DesignPatterns.entities.InfoAdapter;
+import massimomauro.S7L3DesignPatterns.entities.esercizioUno.Info;
+import massimomauro.S7L3DesignPatterns.entities.esercizioUno.InfoAdapter;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
